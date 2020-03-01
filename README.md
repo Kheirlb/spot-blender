@@ -1,7 +1,7 @@
 # spot-blender
  Use Blender and Python to "simulate" interactions with the Boston Dynamics quadruped robot, Spot.
 
-![alt text](spot_twist2.PNG)
+![alt text](spot_twist2_edited.jpg)
 
 ## Setup
 1. You will need to download and install the latest version of Blender 2.8 from [blender.org](blender.org).
@@ -34,6 +34,7 @@ pose2(self)
 power_off(self)
 
 transform_body(self, yaw=None, roll=None, pitch=None, X=None, Y=None, Z=None)
+"""Transforms Body Frame"""
 
 move_foot(self, legNum, yaw=0.0, roll=0.0, pitch=0.0, X=0, Y=0, Z=0)
 """shifts foot position relative to current position"""
