@@ -4,7 +4,7 @@
 ![alt text](spot_twist2_edited.jpg)
 
 ## Setup
-1. You will need to download and install the latest version of Blender 2.8 from [blender.org](blender.org).
+1. You will need to download and install the latest version of Blender 2.8 from [blender.org](https://www.blender.org).
 2. Download/clone this repository.
 3. If you are new to Blender, it can have a steep learning curve so watching an introductory tutorial for Blender 2.8 would be smart. I always recommend Blender Guru.
 4. Add the python script to the modules folder of your Blender installation.
